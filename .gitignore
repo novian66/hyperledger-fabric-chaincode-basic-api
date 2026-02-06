@@ -1,0 +1,44 @@
+# ============================
+# Node.js
+# ============================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ============================
+# Environment / Local Config
+# ============================
+.env
+.env.*
+
+# ============================
+# Fabric Wallet
+# ============================
+wallet/
+wallet/**
+
+# ============================
+# Fabric Connection Profile
+# ============================
+connection/
+connection/**
+
+# ============================
+# OS / Editor
+# ============================
+.DS_Store
+Thumbs.db
+
+# ============================
+# IDE / Editor config
+# ============================
+.vscode/
+.idea/
+
+# ============================
+# Temporary / Backup files
+# ============================
+*.log
+*.tmp
+*.bak
